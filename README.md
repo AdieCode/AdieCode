@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @AdieCode
+- 📫 Contact me:
+    - GitHub → You're already here!
+    - Discord → `acrazy4142`
+    - GMail → `adiecode4@gmail.com`
+
+
 <!--
+- 👀 I can code in **TypeScript** using Svelte framework, and **C++**
 **AdieCode/AdieCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
